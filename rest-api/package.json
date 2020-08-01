@@ -1,0 +1,10 @@
+{
+    "name": "add-two-numbers",
+    "version": "1.1.1",
+    "description": "A simple node api that returns accounts stored in an array",
+    "author": "Eric Ajuruchukwu Ugwuoke Student ID: 219469418",
+    "dependencies": {
+        "express": "",
+    },
+    "private": true
+}
