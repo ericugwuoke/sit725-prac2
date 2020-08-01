@@ -1,5 +1,6 @@
 var express = require('express');
 var app = express();
+//load api port as environment variable
 app.set('port', process.env.PORT || 8080);
 
 var accounts = [
